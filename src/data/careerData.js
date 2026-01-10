@@ -575,7 +575,7 @@ export const careerData = [
                         title: "Research Assistant",
                         description: "Working in labs on scientific projects.",
                         roadmap: ["B.Sc in core subject", "Masters preferred", "CSIR NET qualification"],
-                        resources: [{ name: "NPTEL Research Guide", link: "https://www.youtube.com/results?search_query=nptel+research" }]
+                        resources: [{ name: "NPTEL Research Guide", link: "https://www.youtube.com/@iit" }]
                     },
                     {
                         id: "data_analyst_bsc",
