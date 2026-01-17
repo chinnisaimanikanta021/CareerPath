@@ -41,7 +41,7 @@ export const careerData = [
                             "Clear Physical Efficiency and Medical Tests"
                         ],
                         resources: [
-                            { name: "Wifistudy Defense", link: "https://www.youtube.com/@wifistudy" }
+                            { name: "Wifistudy Defense", link: "https://www.youtube.com/@wifistudyDefenceExams" }
                         ]
                     }
                 ]
@@ -70,7 +70,7 @@ export const careerData = [
                             "Complete 200 hours of flying for CPL"
                         ],
                         resources: [
-                            { name: "Capt. Rohan Bhasin", link: "https://www.youtube.com/@RohanBhasin" }
+                            { name: "Capt. Rohan Bhasin", link: "https://www.youtube.com/@74gear" }
                         ]
                     },
                     {
@@ -105,7 +105,7 @@ export const careerData = [
                             "Register with Nursing Council"
                         ],
                         resources: [
-                            { name: "Nursing Next Live", link: "https://www.youtube.com/@NursingNextLive" }
+                            { name: "Nursing Next Live", link: "https://www.youtube.com/@NursingCareer1" }
                         ]
                     }
                 ]
@@ -190,14 +190,14 @@ export const careerData = [
                         title: "UI/UX Designer",
                         description: "Designing user-friendly app interfaces.",
                         roadmap: ["Figma Mastery", "Design Principles", "Case Study prep"],
-                        resources: [{ name: "Ansh Mehra", link: "https://www.youtube.com/@AnshMehraUX" }]
+                        resources: [{ name: "Ansh Mehra", link: "https://www.youtube.com/@saptarshipr" }]
                     },
                     {
                         id: "db_admin_dip",
                         title: "Database Assistant",
                         description: "Managing and organizing company data.",
                         roadmap: ["SQL Mastery", "MySQL/PostgreSQL admin basics", "Backup strategies"],
-                        resources: [{ name: "Kudvenkat SQL", link: "https://www.youtube.com/@kudvenkat" }]
+                        resources: [{ name: "Kudvenkat SQL", link: "https://www.youtube.com/@learnomate" }]
                     }
                 ]
             },
@@ -232,14 +232,14 @@ export const careerData = [
                         title: "Material Lab Technician",
                         description: "Testing concrete, soil, and bricks.",
                         roadmap: ["Lab safety training", "Concrete cube test certification", "Soil compaction knowledge"],
-                        resources: [{ name: "NPTEL Civil", link: "https://www.youtube.com/@nptelhrd" }]
+                        resources: [{ name: "NPTEL Civil", link: "https://www.youtube.com/@civilengineering2863" }]
                     },
                     {
                         id: "est_eng_dip",
                         title: "Estimation Engineer",
                         description: "Calculating costs and material requirements.",
                         roadmap: ["Excel for Civil Eng", "Quantity Surveying basics", "Tendering knowledge"],
-                        resources: [{ name: "Civil Guruji", link: "https://www.youtube.com/@CivilGuruji" }]
+                        resources: [{ name: "Civil Guruji", link: "https://www.youtube.com/@Civil_Guruji" }]
                     }
                 ]
             },
