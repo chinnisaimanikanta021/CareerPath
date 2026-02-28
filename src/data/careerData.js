@@ -110,7 +110,7 @@ export const careerData = [
                     {
                         id: "nursing",
                         title: "B.Sc Nursing / GNM",
-                        description: "Vital role in healthcare support.",
+                        description: "Nursing is a healthcare profession focused on the care of individuals, families, and communities to maintain or recover optimal health and quality of life.Nurses work alongside doctors and other healthcare professionals but also have independent responsibilities in patient care.",
                         roadmap: [
                             "Complete 12th BiPC",
                             "Apply for State/National Nursing Entrance",
@@ -118,9 +118,9 @@ export const careerData = [
                             "Register with Nursing Council"
                         ],
                         resources: [
-                            { name: "Nursing Next Live", link: "https://www.youtube.com/@NursingCareer1" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "Nnloneofficial", link: "https://www.youtube.com/@Nnloneofficial" },
+                            { name: "Adda247Nursing", link: "https://www.youtube.com/@Adda247Nursing" },
+                            { name: "HAREESHTHEBESTACADEMY", link: "https://www.youtube.com/@HAREESHTHEBESTACADEMY" }
  
                         ]
                     }
