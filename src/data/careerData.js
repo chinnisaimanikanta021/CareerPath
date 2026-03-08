@@ -570,51 +570,51 @@ export const careerData = [
                     {
                         id: "design_eng_btech",
                         title: "Design Engineer (R&D)",
-                        description: "Conceptualizing new products.",
+                        description: "A Design Engineer in Research & Development (R&D) is an engineer who creates new products, improves existing products, and develops innovative designs using engineering principles and research.",
                         roadmap: ["SolidWorks/CATIA", "FEA/ANSYS", "Product Lifecycle Management"],
                         resources: [{ name: "CAD CAM Tutorials", link: "https://www.youtube.com/results?search_query=ansys+tutorial" },
-                          { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "EngineeringExplained", link: "https://www.youtube.com/@EngineeringExplained" },
+                            { name: "SolidWorks", link: "https://www.youtube.com/@SolidWorks" }
  ]
                     },
                     {
                         id: "auto_eng_btech",
                         title: "Automobile Engineer",
-                        description: "Designing future engine and vehicle systems.",
+                        description: "Automobile Engineering is a branch of engineering that focuses on the design, development, manufacturing, and maintenance of vehicles such as cars, trucks, motorcycles, and buses. Automobile engineers work on vehicle engines, fuel systems, safety systems, aerodynamics, electronics, and performance optimization to improve efficiency, safety, and environmental impact. They use tools like CAD software, simulation tools, and testing equipment to design vehicle components and analyze performance. Automobile engineers work in industries such as vehicle manufacturing companies, research and development (R&D) departments, and automotive technology companies.",
                         roadmap: ["Internal Combustion specialist", "Aeordynamics", "Chassis Design"],
                         resources: [{ name: "Engineering Explained", link: "https://www.youtube.com/@EngineeringExplained" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "LearnEngineering", link: "https://www.youtube.com/@LearningEngineering" },
+                            { name: "RealEngineering", link: "https://www.youtube.com/@RealEngineering" }
                         ]
                     },
                     {
                         id: "aero_eng_btech",
                         title: "Aerospace Engineer",
-                        description: "Working on drones, planes, and space crafts.",
+                        description: "Aerospace Engineering is a branch of engineering that focuses on the design, development, testing, and maintenance of aircraft, spacecraft, satellites, and missiles. Aerospace engineers work on technologies related to aerodynamics, propulsion systems, flight mechanics, avionics, and structural design to ensure that flying vehicles operate safely and efficiently. They use advanced tools like computer simulations, wind-tunnel testing, and CAD software to design and analyze aerospace systems. Aerospace engineers work in industries such as space research organizations, defense sectors, aviation companies, and satellite technology companies.",
                         roadmap: ["Propulsion systems", "Fluid Dynamics", "Structure Analysis"],
                         resources: [{ name: "NASAScience", link: "https://www.youtube.com/@NASA" },
-                         { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "ScottManley", link: "https://www.youtube.com/@ScottManley" },
+                            { name: "EverydayAstronaut", link: "https://www.youtube.com/@EverydayAstronaut" }
             ]
                     },
                     {
                         id: "mechatronics_btech",
                         title: "Mechatronics Engineer",
-                        description: "Hybrid of Mechanical and Electronics.",
+                        description: "Mechatronics Engineering is an interdisciplinary field that combines mechanical engineering, electronics, computer science, and control systems to design and develop intelligent machines and automated systems. A mechatronics engineer works on technologies such as robots, automated manufacturing systems, smart devices, industrial automation, and embedded systems. They design systems that integrate sensors, actuators, microcontrollers, and software to make machines operate efficiently and automatically. Mechatronics engineers are widely employed in industries like robotics, automotive, aerospace, manufacturing, and consumer electronics, where advanced automation and smart systems are required.",
                         roadmap: ["Control Systems", "Sensor Fusion", "Industrial Robotics"],
                         resources: [{ name: "Learn Engineering", link: "https://www.youtube.com/@LearningEngineering" },
-                        { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "greatscottlab", link: "https://www.youtube.com/@greatscottlab" },
+                            { name: "JeremyFieldingSr", link: "https://www.youtube.com/@acservicetechchannel" }
                                   ]
                     },
                     {
                         id: "hvac_btech",
                         title: "HVAC Engineer",
-                        description: "Designing massive cooling/heating systems.",
+                        description: "HVAC Engineering refers to the design, installation, and maintenance of Heating, Ventilation, and Air Conditioning systems used in buildings to control temperature, air quality, and humidity. An HVAC engineer designs systems that provide comfortable indoor environments in places like homes, offices, hospitals, malls, and industrial buildings. They work with equipment such as air conditioners, chillers, heat pumps, ducts, ventilation systems, and refrigeration units. HVAC engineers also focus on energy efficiency, environmental safety, and system performance. This field is important in industries like construction, building services, manufacturing plants, and facility management.",
                         roadmap: ["Psychrometrics", "ASHRAE standards", "Duct design"],
                         resources: [{ name: "The Engineering Mindset", link: "https://www.youtube.com/@EngineeringMindset" },
-                             { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "HVACSchool", link: "https://www.youtube.com/@HVACS" },
+                            { name: "acservicetech", link: "https://www.youtube.com/@acservicetech" }
  ]
                     }
                 ]
@@ -627,51 +627,51 @@ export const careerData = [
                     {
                         id: "structural_btech",
                         title: "Structural Engineer",
-                        description: "Ensuring buildings don't fall.",
+                        description: "Structural Engineering is a branch of civil engineering that focuses on the design, analysis, and construction of structures such as buildings, bridges, towers, dams, and stadiums. A structural engineer ensures that structures are safe, stable, and strong enough to withstand forces like gravity, wind, earthquakes, and loads from people or vehicles. They use principles of mechanics, material science, and structural analysis to design structures and often work with software like AutoCAD, STAAD Pro, ETABS, and SAP2000. Structural engineers play an important role in construction companies, infrastructure projects, government engineering departments, and consulting firms.",
                         roadmap: ["Theory of Structures", "Staad.Pro mastery", "Seismic design"],
-                        resources: [{ name: "Civil Engineering India", link: "https://www.youtube.com/results?search_query=structural+design+course" },
-                      { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "StructureFree", link: "https://www.youtube.com/@StructureFree" },
+                            { name: "EngineeringExplained", link: "https://www.youtube.com/@EngineeringExplained" },
+                            { name: "EfficientEngineer", link: "https://www.youtube.com/@EfficientEngineer" }
                     ]
                     },
                     {
                         id: "env_eng_btech",
                         title: "Environmental Engineer",
-                        description: "Focus on clean water and green cities.",
+                        description: "Environmental Engineering is a branch of engineering that focuses on protecting the environment and improving public health by managing natural resources such as air, water, and soil. Environmental engineers design systems and technologies to control pollution, treat wastewater, manage solid waste, and ensure clean drinking water. They also work on sustainable development, renewable energy solutions, and environmental impact assessments to reduce the harmful effects of human activities on the environment. Environmental engineers are employed in government agencies, environmental consulting firms, industries, research organizations, and non-governmental organizations working on environmental protection.",
                         roadmap: ["EIA Standards", "Waste Treatment design", "CSR knowledge"],
-                        resources: [{ name: "Learn Environmental", link: "https://www.youtube.com/results?search_query=environmental+engineer+roadmap" },
-                           { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "EngineeringExplained", link: "https://www.youtube.com/@EngineeringExplained" },
+                            { name: "PracticalEngineeringChannel", link: "https://www.youtube.com/@PracticalEngineeringChannel" },
+                            { name: "EfficientEngineer", link: "https://www.youtube.com/@EfficientEngineer" }
  ]
                     },
                     {
                         id: "transport_btech",
                         title: "Transportation Engineer",
-                        description: "Designing highways, subways and ports.",
+                        description: "Transportation Engineering is a branch of Civil Engineering that focuses on the planning, design, construction, and management of transportation systems such as roads, highways, railways, airports, and public transit. Transportation engineers aim to create safe, efficient, and sustainable movement of people and goods. They analyze traffic flow, road safety, transportation networks, and infrastructure planning to reduce congestion and improve travel efficiency. They also use software tools for traffic simulation, route planning, and infrastructure design. Transportation engineers work in government transportation departments, infrastructure companies, urban planning organizations, and consulting firms.",
                         roadmap: ["Highway Geometric Design", "Traffic Signal design", "Pavement Analysis"],
-                        resources: [{ name: "NPTEL Transport", link: "https://www.youtube.com/results?search_query=nptel+transportation+engineering" },
-                           { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "PracticalEngineeringChannel", link: "https://www.youtube.com/@PracticalEngineeringChannel" },
+                            { name: "CityBeautiful", link: "https://www.youtube.com/@CityBeautiful" },
+                            { name: "RealEngineering", link: "https://www.youtube.com/@RealEngineering" }
                   ]
                     },
                     {
                         id: "project_mgr_civil_btech",
                         title: "Construction Manager",
-                        description: "Full oversight of major building projects.",
+                        description: "A Construction Manager is a professional who plans, coordinates, and supervises construction projects such as buildings, bridges, roads, and infrastructure. They are responsible for managing the entire construction process, including budgeting, scheduling, resource allocation, and ensuring safety at the construction site. Construction managers work closely with architects, engineers, contractors, and workers to make sure the project is completed on time, within budget, and according to design specifications. They also monitor quality control, risk management, and compliance with building regulations. Construction managers are employed in construction companies, infrastructure development firms, real estate companies, and government projects.",
                         roadmap: ["PMP Certification", "MSP/Primavera basics", "Budgeting/Costing"],
-                        resources: [{ name: "Construction Project Management", link: "https://www.youtube.com/results?search_query=construction+management+course" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "TheB1M", link: "https://www.youtube.com/@TheB1M" },
+                            { name: "PracticalEngineeringChannel", link: "https://www.youtube.com/@PracticalEngineeringChannel" },
+                            { name: "CivilEngineeringAcademy", link: "https://www.youtube.com/@CivilEngineeringAcademy" }
                           ]
                     },
                     {
                         id: "hydel_eng_btech",
                         title: "Hydraulic Engineer",
-                        description: "Designing dams and water channels.",
+                        description: "Hydraulic Engineering is a branch of Civil Engineering that focuses on the study and management of water flow and fluid systems. A hydraulic engineer designs and analyzes structures that control and use water resources, such as dams, canals, pipelines, irrigation systems, drainage systems, flood control systems, and hydroelectric plants. They apply principles of fluid mechanics, hydrology, and environmental engineering to ensure efficient water distribution and to prevent problems like flooding and water scarcity. Hydraulic engineers work in water resource departments, environmental agencies, construction companies, and infrastructure projects related to water management.",
                         roadmap: ["Fluid Mechanics", "Dam design specialization", "Canal estimation"],
-                        resources: [{ name: "Water Resources Eng", link: "https://www.youtube.com/results?search_query=water+resource+engineering+lecture" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "PracticalEngineeringChannel", link: "https://www.youtube.com/@PracticalEngineeringChannel" },
+                            { name: "EfficientEngineer", link: "https://www.youtube.com/@EfficientEngineer" },
+                            { name: "EngineeringExplained", link: "https://www.youtube.com/@EngineeringExplained" }
              ]
                     }
                 ]
@@ -684,50 +684,51 @@ export const careerData = [
                     {
                         id: "power_btech",
                         title: "Power Systems Engineer",
-                        description: "Managing city-wide power grids.",
+                        description: "A Power Systems Engineer works on the generation, transmission, distribution, and management of electrical power to ensure reliable and efficient electricity supply. They design and analyze electrical systems used in power plants, substations, transmission lines, and distribution networks. Power systems engineers study power flow, voltage stability, load forecasting, protection systems, and renewable energy integration to maintain a stable electrical grid. They use software tools such as MATLAB, PSCAD, ETAP, and PowerWorld for simulation and analysis. These engineers work in electric utilities, power generation companies, renewable energy firms, and government electricity boards.",
                         roadmap: ["Load Flow analysis", "Relay protection", "Smart Grid training"],
                         resources: [{ name: "Electrical4U", link: "https://www.youtube.com/@electrical4you" },
-                               { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "EngineeringMindset", link: "https://www.youtube.com/@EngineeringMindset" },
+                            { name: "ALLABOUTELECTRONICS", link: "https://www.youtube.com/@ALLABOUTELECTRONICS" }
                  ]
                     },
                     {
                         id: "ev_designer_btech",
                         title: "EV Powertrain Designer",
-                        description: "Designing motors for electric cars.",
+                        description: "An EV Powertrain Designer is an engineer who designs and develops the powertrain system of electric vehicles (EVs). The powertrain includes electric motors, battery systems, power electronics, transmission systems, and control software that convert electrical energy into motion. EV powertrain designers work on improving vehicle efficiency, battery performance, energy management, and motor control to make electric vehicles more powerful and energy-efficient. They use tools like MATLAB, Simulink, CAD software, and simulation tools to design and test EV components. These engineers work in electric vehicle companies, automotive R&D centers, and battery technology companies.",
                         roadmap: ["Motor Control (FOC)", "Battery Management System (BMS)", "Thermal design"],
-                        resources: [{ name: "EV Design Lab", link: "https://www.youtube.com/results?search_query=ev+powertrain+design+tutorial" },
-                      { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "EngineeringExplained", link: "https://www.youtube.com/@EngineeringExplained" },
+                            { name: "MunroLive", link: "https://www.youtube.com/@MunroLive" },
+                            { name: "EngineeringMindset", link: "https://www.youtube.com/@EngineeringMindset" }
           ]
                     },
                     {
                         id: "control_eng_btech",
                         title: "Control System Engineer",
-                        description: "Automating massive industrial processes.",
+                        description: "A Control Systems Engineer designs and develops systems that monitor and control machines, devices, and industrial processes automatically. They use principles of control theory, electronics, and mathematics to ensure systems operate efficiently, accurately, and safely. Control system engineers work with technologies such as PID controllers, sensors, actuators, PLCs (Programmable Logic Controllers), and automation systems to regulate variables like temperature, speed, pressure, and voltage. They use software tools like MATLAB, Simulink, and LabVIEW to model, simulate, and test control systems. These engineers are employed in industries like robotics, aerospace, manufacturing automation, power plants, and automotive systems.",
                         roadmap: ["Matlab/Simulink", "Feedback loops", "DCS systems"],
-                        resources: [{ name: "Control Systems", link: "https://www.youtube.com/results?search_query=control+systems+engineering+lectures" },
-                       { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "BrianBDouglas", link: "https://www.youtube.com/@BrianBDouglas" },
+                            { name: "ALLABOUTELECTRONICS", link: "https://www.youtube.com/@ALLABOUTELECTRONICS" },
+                            { name: "realpars", link: "https://www.youtube.com/@realpars" }
  ]
                     },
                     {
                         id: "instrumentation_btech",
                         title: "Instrumentation Engineer",
-                        description: "Managing sensors for oil/gas/pharma.",
+                        description: "An Instrumentation Engineer is responsible for designing, installing, and maintaining instruments and control systems used to measure and monitor physical variables such as temperature, pressure, flow, level, and voltage in industrial processes. They ensure that machines and systems operate accurately, safely, and efficiently by using devices like sensors, transmitters, controllers, and automation systems. Instrumentation engineers often work with technologies such as PLC (Programmable Logic Controllers), SCADA systems, and tools like MATLAB to control and monitor industrial processes. They are commonly employed in industries like oil and gas, power plants, chemical manufacturing, pharmaceuticals, and automation industries.",
                         roadmap: ["P&ID diagrams", "Field instrumentation", "PLC/HMI integration"],
-                        resources: [{ name: "Instrumentation Tools", link: "https://www.youtube.com/@instrumentationtools" },                          { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "realpars", link: "https://www.youtube.com/@realpars" },
+                            { name: "InstrumentationTools", link: "https://www.youtube.com/@InstrumentationTools" },
+                            { name: "ALLABOUTELECTRONICS", link: "https://www.youtube.com/@ALLABOUTELECTRONICS" }
            ]
                     },
                     {
                         id: "audit_eng_btech",
                         title: "Energy Auditor",
-                        description: "Improving energy efficiency for factories.",
+                        description: "An Energy Auditor is a professional who analyzes how energy is used in buildings, industries, and systems and suggests ways to reduce energy consumption and improve efficiency. They inspect equipment such as HVAC systems, lighting systems, electrical systems, motors, and insulation to identify areas where energy is being wasted. Energy auditors collect data, measure energy usage, and prepare reports with recommendations to save energy, reduce costs, and lower environmental impact. They often work with energy management tools and follow standards set by organizations like the Bureau of Energy Efficiency. Energy auditors are employed in industries, government energy departments, consulting firms, and renewable energy companies.",
                         roadmap: ["BEE Energy Audit Certification", "Power quality analysis", "Energy saving calcs"],
-                        resources: [{ name: "Energy Audit", link: "https://www.youtube.com/results?search_query=energy+audit+training" },
-                           { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "EngineeringMindset", link: "https://www.youtube.com/@EngineeringMindset" },
+                            { name: "RealEngineering", link: "https://www.youtube.com/@RealEngineering" },
+                            { name: "PracticalEngineeringChannel", link: "https://www.youtube.com/@PracticalEngineeringChannel" }
  ]
                     }
                 ]
@@ -747,31 +748,31 @@ export const careerData = [
                     {
                         id: "research_asst",
                         title: "Research Assistant",
-                        description: "Working in labs on scientific projects.",
+                        description: "A Research Assistant (RA) is a professional who supports researchers or professors in conducting scientific, technical, or academic research. Their work includes collecting data, performing experiments, analyzing results, preparing reports, and assisting in research projects. Research assistants often help in writing research papers, technical documents, and presentations and may also manage laboratory equipment or research software. They work in universities, research laboratories, government organizations, and technology companies. In engineering fields, research assistants may work on areas like electronics, artificial intelligence, robotics, data analysis, or communication systems.",
                         roadmap: ["B.Sc in core subject", "Masters preferred", "CSIR NET qualification"],
                         resources: [{ name: "NPTEL Research Guide", link: "https://www.youtube.com/@iit" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "AndyStapleton", link: "https://www.youtube.com/@RealEngineering" },
+                            { name: " RealEngineering", link: "https://www.youtube.com/@RealEngineering" }
                              ]
                     },
                     {
                         id: "data_analyst_bsc",
                         title: "Data Analyst",
-                        description: "Interpreting complex data to help businesses.",
+                        description: "A Data Analyst is a professional who collects, processes, and analyzes data to help organizations make data-driven decisions. They work with large datasets to identify patterns, trends, and insights using tools such as Microsoft Excel, Python, SQL, and visualization tools like Tableau and Power BI. Data analysts clean and organize data, perform statistical analysis, and create dashboards or reports that help businesses improve performance, understand customer behavior, and make strategic decisions. They are employed in industries such as finance, healthcare, marketing, technology, and e-commerce.",
                         roadmap: ["SQL Mastery", "Excel for Analytics", "Python/R Basics"],
                         resources: [{ name: "Codebasics Analytics", link: "https://www.youtube.com/@codebasics" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "AlexTheAnalyst", link: "https://www.youtube.com/@AlexTheAnalyst" },
+                            { name: "LukeBarousse", link: "https://www.youtube.com/@LukeBarousse" }
                          ]
                     },
                     {
                         id: "lab_tech_bsc",
                         title: "Lab Technician",
-                        description: "Running diagnostic tests in medical/industrial labs.",
+                        description: "A Lab Technician is a professional who works in a laboratory to conduct experiments, test samples, and maintain laboratory equipment. They assist scientists, engineers, or doctors in performing scientific tests and research by collecting data, preparing chemicals, analyzing results, and recording observations. Lab technicians also ensure that laboratory instruments are calibrated, cleaned, and functioning properly while following safety procedures and quality standards. They can work in different fields such as medical laboratories, research labs, pharmaceutical companies, chemical industries, and engineering laboratories.",
                         roadmap: ["B.Sc (BZC/MPC)", "MLT Certification", "Practical Lab Training"],
                         resources: [{ name: "Meritech Education", link: "https://www.youtube.com/@MeritechEducation" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "Labster", link: "https://www.youtube.com/@Labster" },
+                            { name: "thethoughtemporium", link: "https://www.youtube.com/@thethoughtemporium" }
             ]
                     }
                 ]
@@ -784,31 +785,31 @@ export const careerData = [
                     {
                         id: "accountant_bcom",
                         title: "Professional Accountant",
-                        description: "Managing corporate financial accounts.",
+                        description: "A Professional Accountant is a financial expert responsible for recording, analyzing, and managing financial transactions of individuals or organizations. They prepare financial statements, tax reports, budgets, and audit documents to ensure that financial records are accurate and comply with government regulations. Professional accountants also help organizations make financial decisions, reduce costs, manage risks, and plan investments. They commonly use accounting software such as Tally, QuickBooks, and Microsoft Excel to manage financial data. Professional accountants work in banks, corporate companies, accounting firms, government departments, and financial consulting organizations.",
                         roadmap: ["Tally/ERP Mastery", "GST knowledge", "Audit basics"],
                         resources: [{ name: "Accounting Stuff", link: "https://www.youtube.com/@AccountingStuff" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "Edspira", link: "https://www.youtube.com/@Edspira" },
+                            { name: "CARachanaRanade", link: "https://www.youtube.com/@CARachanaRanade" }
                            ]
                     },
                     {
                         id: "auditor_bcom",
                         title: "Internal Auditor",
-                        description: "Checking company compliance and financials.",
+                        description: "An Internal Auditor is a professional who evaluates and reviews an organization's financial records, operations, and internal controls to ensure that they are accurate, efficient, and compliant with company policies and government regulations. Internal auditors identify risks, fraud, errors, and inefficiencies in business processes and provide recommendations to improve the organization's performance and security. They examine financial documents, analyze operational procedures, and ensure that the company follows proper risk management and governance practices. Internal auditors usually work in corporate companies, banks, government organizations, and auditing firms and often use tools such as Microsoft Excel, SAP, and Oracle Financials for auditing and financial analysis.",
                         roadmap: ["B.Com", "CA-IPCC (preferred)", "Internal Audit training"],
                         resources: [{ name: "CA Tushar Makkar", link: "https://www.youtube.com/@CATusharMakkar" },
-                             { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "AccountingStuff", link: "https://www.youtube.com/@AccountingStuff" },
+                            { name: "Edspira", link: "https://www.youtube.com/@Edspira" }
                            ]
                     },
                     {
                         id: "bank_po",
                         title: "Bank Probationary Officer",
-                        description: "Managerial roles in public/private banks.",
+                        description: "A Bank Probationary Officer (PO) is an entry-level managerial position in banks where the candidate is trained to handle banking operations, financial services, customer management, and administrative responsibilities. During the probation period, the officer learns different banking activities such as loan processing, account management, credit analysis, customer service, and branch operations. After completing training, the PO can be promoted to roles like Assistant Manager, Branch Manager, or higher managerial positions. In India, many candidates become Bank POs through competitive exams conducted by organizations like Institute of Banking Personnel Selection and State Bank of India.",
                         roadmap: ["Prepare for IBPS/SBI PO", "Quant/Reasoning mastery", "Interview prep"],
                         resources: [{ name: "Adda247 Banking", link: "https://www.youtube.com/@adda247" },
-                          { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "StudyIQEducationLtd", link: "https://www.youtube.com/@StudyIQEducationLtd" },
+                            { name: "bankerswaybyunacademy", link: "https://www.youtube.com/@bankerswaybyunacademy" }
                        ]
                     }
                 ]
@@ -821,31 +822,31 @@ export const careerData = [
                     {
                         id: "journalist",
                         title: "Media Journalist",
-                        description: "Reporting and writing for news outlets.",
+                        description: "A Media Journalist is a professional who collects, investigates, writes, and reports news and information for the public through different media platforms such as television, newspapers, radio, websites, and social media. Media journalists research current events, interview people, verify facts, and present news in a clear and accurate way. They cover topics like politics, business, technology, entertainment, sports, and social issues to keep the public informed. Journalists may work as reporters, news anchors, editors, or investigative journalists in media organizations.",
                         roadmap: ["Mass Communication basics", "Internship at News House", "Digital Media training"],
                         resources: [{ name: "Media Mentor Guide", link: "https://www.youtube.com/@MEDIAMENTOR" },
-                         { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "aljazeeraenglish", link: "https://www.youtube.com/@aljazeeraenglish" },
+                            { name: "crashcourse", link: "https://www.youtube.com/@crashcourse" }
                   ]
                     },
                     {
                         id: "content_writer",
                         title: "Content Specialist",
-                        description: "Writing high-quality articles and blogs.",
+                        description: "A Content Specialist is a professional who creates, manages, and optimizes digital content for websites, blogs, social media, and marketing campaigns. Their main goal is to produce engaging, informative, and SEO-optimized content that attracts audiences and supports business or brand goals. Content specialists research topics, write articles, edit content, plan content strategies, and analyze performance using tools like Google Analytics, WordPress, and SEMrush. They usually work in digital marketing agencies, media companies, tech companies, and e-commerce businesses where strong communication, creativity, and marketing skills are required.",
                         roadmap: ["Mastering English/Regional writing", "SEO Basics", "Freelance Portfolio"],
-                        resources: [{ name: "Saheli Chatterji", link: "https://www.youtube.com/@SaheliChatterji" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                        resources: [{ name: "Saheli Chatterji", link: "https://www.youtube.com/@neilpatel" },
+                            { name: "HubSpotMarketing", link: "https://www.youtube.com/@HubSpotMarketing" },
+                            { name: "neilpatel", link: "https://www.youtube.com/@neilpatel" }
                          ]
                     },
                     {
                         id: "civil_services",
                         title: "IAS/IPS Aspirant",
-                        description: "Top-level administration in Indian Government.",
+                        description: "An IAS/IPS Aspirant is a person preparing for the Civil Services Examination (CSE) conducted by the Union Public Service Commission in India. This exam is one of the toughest competitive exams and selects candidates for prestigious government services such as Indian Administrative Service and Indian Police Service. Aspirants study subjects like Indian polity, history, geography, economics, environment, science, and current affairs. The selection process has three stages: Preliminary Exam, Main Exam, and Interview (Personality Test). Successful candidates become administrators, policy makers, or police officers who help manage government operations and maintain law and order in the country.",
                         roadmap: ["Choose Optional Subject", "Prepare for UPSC Prelims/Mains", "Daily Affairs Mastery"],
                         resources: [{ name: "Drishti IAS", link: "https://www.youtube.com/@DrishtiIASvideos" },
-                           { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "BYJUSIAS", link: "https://www.youtube.com/@BYJUSIAS" },
+                            { name: "DrishtiIASvideos", link: "https://www.youtube.com/@DrishtiIASvideos" }
              ]
                     }
                 ]
@@ -860,36 +861,36 @@ export const careerData = [
             {
                 id: "iti_electrician",
                 title: "Electrician",
-                description: "Expertise in wiring and electrical repair.",
+                description: "An Electrician is a skilled professional who installs, maintains, repairs, and troubleshoots electrical systems and equipment in homes, buildings, and industries. Electricians work with components such as wiring, switches, circuit breakers, transformers, and electrical panels to ensure the safe and efficient supply of electricity. They read electrical diagrams and blueprints, test electrical systems using tools, and follow safety standards to prevent electrical hazards. Electricians are employed in construction companies, power plants, maintenance departments, and electrical service companies, and they also work independently for residential and commercial electrical services.",
                 jobs: [
                     {
                         id: "comm_electrician",
                         title: "Commercial Electrician",
-                        description: "Wiring for buildings and malls.",
+                        description: "A Commercial Electrician is a skilled professional who installs, maintains, and repairs electrical systems in commercial buildings such as offices, shopping malls, hospitals, schools, and factories. They work with systems like electrical wiring, lighting systems, circuit breakers, transformers, distribution panels, and power systems to ensure a safe and reliable electricity supply. Commercial electricians read electrical blueprints, install electrical equipment, troubleshoot electrical faults, and follow safety codes and regulations. They often work for construction companies, electrical service companies, and facility maintenance departments.",
                         roadmap: ["ITI Electrician", "Wireman License", "Apprenticeship"],
                         resources: [{ name: "Electrician Training", link: "https://www.youtube.com/@ElectricianU" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "ElectricianU", link: "https://www.youtube.com/@ElectricianU" },
+                            { name: "EngineeringMindset", link: "https://www.youtube.com/@EngineeringMindset" }
                       ]
                     },
                     {
                         id: "metro_tech",
                         title: "Metro Technician",
-                        description: "Maintenance of metro rail electrical systems.",
+                        description: "A Metro Technician is a technical professional responsible for the installation, maintenance, and repair of metro rail systems and equipment. They work with systems such as electrical power supply, signaling systems, communication networks, track equipment, and train control systems to ensure that metro trains operate safely and efficiently. Metro technicians regularly inspect metro infrastructure, troubleshoot technical issues, and perform preventive maintenance on trains and railway equipment. They often work for metro rail organizations such as Delhi Metro Rail Corporation, Hyderabad Metro Rail, and Bangalore Metro Rail Corporation Limited. This role requires knowledge of electronics, electrical systems, mechanical components, and railway technology.",
                         roadmap: ["ITI Certificate", "Clear Metro Rail Exams", "Specialized Grid training"],
                         resources: [{ name: "Kautilya Classes", link: "https://www.youtube.com/@Kautilyaclasses" },
-                             { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "PracticalEngineeringChannel", link: "https://www.youtube.com/@PracticalEngineeringChannel" },
+                            { name: "RailwaysExplained", link: "https://www.youtube.com/@RailwaysExplained" }
  ]
                     },
                     {
                         id: "solar_iti",
                         title: "Solar PV Installer",
-                        description: "Setting up renewable solar power panels.",
+                        description: "A Solar PV Installer is a professional who installs, maintains, and repairs solar photovoltaic (PV) systems that convert sunlight into electricity. They work with equipment such as solar panels, inverters, batteries, mounting structures, and electrical wiring to set up solar power systems on rooftops, buildings, or solar farms. Solar PV installers read installation plans, connect electrical components, test system performance, and ensure that the solar system operates safely and efficiently. They often work for renewable energy companies such as Tata Power Solar, Adani Solar, and Waaree Energies. This role is important in the renewable energy industry because solar energy helps reduce pollution and dependence on fossil fuels.",
                         roadmap: ["Solar installation course", "DC wiring mastery", "Roof safety cert"],
                         resources: [{ name: "Tusiya Tech Solar", link: "https://www.youtube.com/@tusiyatech" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "WillProwse", link: "https://www.youtube.com/@WillProwse" },
+                            { name: "EngineeringMindset", link: "https://www.youtube.com/@EngineeringMindset" }
           ]
                     }
                 ]
@@ -902,21 +903,21 @@ export const careerData = [
                     {
                         id: "machine_assembler",
                         title: "Machine Assembler",
-                        description: "Assembling factory machinery.",
+                        description: "A Machine Assembler is a technician who assembles, installs, and tests mechanical or electronic machines and equipment by following engineering drawings, blueprints, or technical instructions. They fit together components such as motors, gears, belts, wiring, and mechanical parts to build complete machines used in industries like manufacturing, automation, automotive, and electronics. Machine assemblers also inspect parts, adjust machine components, and ensure that the equipment operates correctly, safely, and efficiently. They commonly use tools such as wrenches, screwdrivers, measuring instruments, and power tools while working in factories or production units.",
                         roadmap: ["ITI Fitter", "Blue print reading", "Alignment training"],
                         resources: [{ name: "Global iTi Fitter", link: "https://www.youtube.com/@GlobaliTi" },
-                       { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "PracticalMachinist", link: "https://www.youtube.com/@PracticalMachinist" },
+                            { name: "JeremyFieldingSr", link: "https://www.youtube.com/@JeremyFieldingSr" }
  ]
                     },
                     {
                         id: "plant_maintenance",
                         title: "Plant Mechanic",
-                        description: "Fixing industrial equipment in mills.",
+                        description: "A Plant Mechanic is a technician responsible for the maintenance, repair, and installation of mechanical equipment used in industrial plants and factories. They work with machines such as pumps, compressors, turbines, boilers, conveyors, and motors to ensure that industrial operations run smoothly and safely. Plant mechanics inspect machinery, diagnose mechanical problems, replace damaged parts, lubricate moving components, and perform regular preventive maintenance. They commonly work in industries such as manufacturing plants, power plants, oil and gas industries, chemical plants, and heavy engineering factories.",
                         roadmap: ["Machine Repair Specialization", "Safety protocol training", "Troubleshooting exp"],
                         resources: [{ name: "Yes Yen Industrial", link: "https://www.youtube.com/@YesYenGraphiTech" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "realpars", link: "https://www.youtube.com/@realpars" },
+                            { name: "PracticalMachinist", link: "https://www.youtube.com/@PracticalMachinist" }
                ]
                     }
                 ]
@@ -929,21 +930,21 @@ export const careerData = [
                     {
                         id: "arc_welder",
                         title: "ARC/TIG Welder",
-                        description: "Precision welding for advanced machinery.",
+                        description: "A Welder is a skilled technician who joins metal parts together using heat, pressure, or specialized welding equipment. Welders work with metals such as steel, aluminum, and iron to create strong and permanent joints used in structures, machinery, pipelines, and vehicles. They read technical drawings and blueprints, prepare metal surfaces, and use welding techniques like arc welding, MIG welding, and TIG welding to assemble or repair metal components. Welders are employed in industries such as construction, shipbuilding, automobile manufacturing, oil and gas, and heavy engineering factories.",
                         roadmap: ["ITI Welder", "AWS Certification", "GMAW/GTAW training"],
                         resources: [{ name: "Weld.com", link: "https://www.youtube.com/@Welddotcom" },
-                           { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "weldingtipsandtricks", link: "https://www.youtube.com/@weldingtipsandtricks" },
+                            { name: "TheFabricatorSeries", link: "https://www.youtube.com/@TheFabricatorSeries" }
  ]
                     },
                     {
                         id: "underwater_welder",
                         title: "Underwater Welder",
-                        description: "Extremely high-paying offshore welding.",
+                        description: "An Underwater Welder is a specialized professional who performs welding and repair work on metal structures under water, such as ships, pipelines, offshore oil rigs, bridges, and underwater structures. This job combines welding skills with commercial diving techniques. Underwater welders use special equipment and safety gear to work in deep water while repairing or constructing metal parts. They perform tasks like cutting metal, welding structures, inspecting underwater damage, and maintaining offshore infrastructure. This profession is considered high-risk but high-paying because it requires advanced training in both diving and welding and strict safety procedures.",
                         roadmap: ["Master Welding", "Commercial Diving Cert", "Saturation Diving training"],
                         resources: [{ name: "Ocean Corp Divers", link: "https://www.youtube.com/@OceanCorp" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" },
-                            { name: "SSC JE Preparation", link: "https://www.youtube.com/@SSCAdda247" }
+                            { name: "WeldDotCom", link: "https://www.youtube.com/@WeldDotCom" },
+                            { name: "weldingtipsandtricks", link: "https://www.youtube.com/@weldingtipsandtricks" }
  ]
                     }
                 ]
